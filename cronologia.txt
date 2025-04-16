@@ -1,0 +1,14 @@
+temas a dar:
+0.operadores
+1.IfelIfElse
+2.for
+3.Coleccion mutable
+4.while
+5.Slicing
+6.alteracionFlujo
+7.range/repetitionRange
+
+desp de objetos
+8.paradigmasProgramacion
+9.coleccionesInmutables
+10.punteros
